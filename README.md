@@ -1,1 +1,1 @@
-# rush 
+# cds-rus_client-rush 
